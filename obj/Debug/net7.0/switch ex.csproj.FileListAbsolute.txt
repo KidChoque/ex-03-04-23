@@ -1,0 +1,15 @@
+C:\Users\53297269804\Desktop\switch ex\bin\Debug\net7.0\switch ex.exe
+C:\Users\53297269804\Desktop\switch ex\bin\Debug\net7.0\switch ex.deps.json
+C:\Users\53297269804\Desktop\switch ex\bin\Debug\net7.0\switch ex.runtimeconfig.json
+C:\Users\53297269804\Desktop\switch ex\bin\Debug\net7.0\switch ex.dll
+C:\Users\53297269804\Desktop\switch ex\bin\Debug\net7.0\switch ex.pdb
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\switch ex.csproj.AssemblyReference.cache
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\switch ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\switch ex.AssemblyInfoInputs.cache
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\switch ex.AssemblyInfo.cs
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\switch ex.csproj.CoreCompileInputs.cache
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\switch ex.dll
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\refint\switch ex.dll
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\switch ex.pdb
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\switch ex.genruntimeconfig.cache
+C:\Users\53297269804\Desktop\switch ex\obj\Debug\net7.0\ref\switch ex.dll
